@@ -56,7 +56,7 @@ This project builds a machine learning model to predict the **close price (final
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/california-price-prediction.git
+git clone https://github.com/Monika3843/california-price-prediction.git
 cd california-price-prediction
 ```
 
